@@ -1,4 +1,4 @@
 resource "local_file" "testfile" {
-  filename = "testfile"
-  content  = "this is testfile"
+  filename = "testfile.txt"
+  content  = "this is testfile2"
 }
